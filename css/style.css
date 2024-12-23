@@ -223,6 +223,7 @@ background: -moz-linear-gradient(22deg,#181414 0%, #7e8b7e 80%);
 .contact-section-type {
   color: #fff;
   display: flex;
+  padding: 0 0 0 22px;
 }
 
 .contact-section-link {
